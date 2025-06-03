@@ -1,7 +1,7 @@
 version: '3'
 services:
   app:
-    image: icaro01/webacademy:latest
+    image: icaro01/web_app:latest
     container_name: webacademydemo
     restart: always
     ports:
